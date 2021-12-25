@@ -1,5 +1,10 @@
-- 👋 Hi, I’m Aaditya Raval (@Ahraval) <a href = 'https://ahraval.github.io'> <img src="https://github.com/Ahraval/Ahraval/blob/main/waving-hand.gif" width="50px"></a>
-- 👀 I’m interested in Artificial Intelligence, Cybersecurity and Android Development.
+Hi, I’m Aaditya Raval <a href = 'https://ahraval.github.io'> (@Ahraval) <img src="https://github.com/Ahraval/Ahraval/blob/main/waving-hand.gif" width="50px"></a>
+
+- :computer: I'm a Researcher, Computer Scientist and Android Developer.
+- :dart: Interested in Artificial Intelligence, Cybersecurity and Android Development.
+- :mortar_board: Pursuing a Ph.D. in computer science at North Carolina A&T State University (NCAT).
+- :hourglass_flowing_sand:  Exploring applications of ML and DL in Cybersecurity.
+- :trophy: Research: Passive User Identification and Authentication with Smartphone Sensor Data
 
 <!---
 Ahraval/Ahraval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
