@@ -1,4 +1,4 @@
-Hi, I’m Aaditya Raval (<a href = 'https://ahraval.github.io'>@Ahraval) <img src="https://github.com/Ahraval/Ahraval/blob/main/waving-hand.gif" width="50px"></a>
+Hi, I’m Aaditya Raval <a href = 'https://ahraval.github.io'> (@Ahraval) &nbsp; <img src="https://github.com/Ahraval/Ahraval/blob/main/waving-hand.gif" width="50px"></a>
 
 - :computer: I'm a Researcher, Computer Scientist and Android Developer.
 - :dart: Interested in Artificial Intelligence, Cybersecurity and Android Development.
