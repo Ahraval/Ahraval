@@ -1,11 +1,11 @@
 Hi, I’m Aaditya Raval <a href = 'https://ahraval.github.io'> @Ahraval</a> &nbsp; <img src="https://github.com/Ahraval/Ahraval/blob/main/waving-hand.gif" width="50px">
 
-- :computer: I'm a Researcher, Computer Scientist and Android Developer.
-- :dart: Interested in Artificial Intelligence, Cybersecurity and Android Development.
-- :mortar_board: Pursuing a Ph.D. in computer science at North Carolina A&T State University (NCAT).
-- :hourglass_flowing_sand:  Exploring applications of ML and DL in Cybersecurity.
-- :trophy: Research: Passive User Identification and Authentication with Smartphone Sensor Data
-
+- :computer: I'm a Researcher, Computer Scientist, and Senior Computer System Analyst.
+- :dart: Interested in Artificial Intelligence, Cybersecurity, and Software Development.
+- :mortar_board: Designing and implementing software and AI-based solutions in higher education at North Carolina A&T State University (NCAT).
+- :hourglass_flowing_sand: Exploring Machine Learning (ML) and Deep Learning (DL) models, frameworks, and their applications in Cybersecurity and Higher Education.
+- :trophy: Ph.D. in Computer Science. Research Interests: Android Malware Detection, Passive User Identification, and Passive User Authentication.
+- 🤔:
 <!---
 Ahraval/Ahraval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
